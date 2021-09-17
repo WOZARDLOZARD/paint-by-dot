@@ -1,13 +1,6 @@
 /*
 
- Pointillism Studio LITE | Made by Jeremy Liu at Old Scona Academic High School
- 
- Made by: Jeremy Liu
- Assignment: Paint by Dot
- Class: Mr. Karas, Block 2
- Date completed: October 31, 2019
- 
- I verify that this program is my own work. - J.L.
+ Pointillism Studio LITE
  
  This is a program intended to be a flexible tool in which the user can use their 
  creativity to sketch things on the canvas. This program comes with a flexible brush
